@@ -1,1 +1,1 @@
-# WorkWithFiles1 (Third laboratiry work)
+# WorkWithFiles (Third laboratiry work)
